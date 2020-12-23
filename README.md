@@ -38,9 +38,9 @@ Since Github renders to do lists now, going to list tasks here:
 - [x] Scrape data for newest `Jobs` data and convert dates
 - [x] Scrape data for  `CareerGuidance` subreddit and convert dates
 - [x] Scrape data for `ExperiencedDevs` subreddit and convert dates
-- [ ] Perform data analysis on jobs dataset 
+- [x] Perform data analysis on jobs dataset 
   - [ ] dimensions + subsetting by month + filter to highest comments + filter to average comment + median scores (to compare others to) + highlight the most important post from each month + highlight the most important post overall
-- [ ] Perform data analysis on careerguidance dataset
+- [x] Perform data analysis on careerguidance dataset
 - [ ] curate data story some more
 
 
