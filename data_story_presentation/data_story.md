@@ -1,4 +1,7 @@
-# Introduction
+# Economic Fear during the Coronavirus Pandemic
+## A Story in Reddit Posts
+
+# Introduction and Motivation
 1.	The onset of the coronavirus pandemic in the united states led to a disastrous level of unemployment in the United States. 
     - A particularly disastrous end for service-based companies and their employees. To this day, there is no easy fix to this, since social distancing is crucial to the stop of the spread of the virus. 
 2.	Why investigate this?
@@ -27,3 +30,4 @@
 
 2. 
 
+# Summary + Possible Limitations of My Analysis
