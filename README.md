@@ -23,8 +23,6 @@
 ``
 
 
-
-
 ### Extra: What I've Learned:
 
 - In this project, I learned:
