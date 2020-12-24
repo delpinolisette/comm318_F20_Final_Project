@@ -28,7 +28,20 @@
            -  > Are you seriously trying to quit your job during a global pandemic and impending recession? o_O
            -  >  Advice This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown retrenchments alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck!
            -  We can see tension is rising regarding job security amidst the pandemic. It had the highest number of upvotes, meaning users upvoted this post more than any other post made in April in 2020. 
-           -  In contrast, the post with the highest number of comments from r/careerguidance from March 2020 (too soon for the full extent of masssive layoffs, furloughed employees, rescinded job offers) was concered with being rejected from a job despite being qualified:
+           -  This table shows that the statistics from r/CareerGuidance from March:
+
+| Statistic   | March Posts | --Top 1000 Form Posts of All Time--
+| ----------- | ----------- | ----------- |
+| Number of Posts  | 50       | 1000 |
+| Average Post Score | 267.42 | 208.5 | 
+| Average Number of Comments| 99.98* | 77.01*
+| Highest Number of Comments on Post | 457*  | 579 |
+| Highest Post Score | 772 | 1484 |
+
+- We can see user engagement was particularly high in March on r/CareerGuidance, with the average number of comments being far higher than the average number of comments for the rest of the top 1000 posts of all time. 
+- The table of statistics for April in the same forum, r/CareerGuidance, shows a massive spike in post scores, and a realtively high top scoring post (it actually turned out to be the second highest scoring post on the subreddit ever, second only to one post, this was exciting since we )
+
+- In contrast, the post with the highest number of comments from r/careerguidance from March 2020 (too soon for the full extent of masssive layoffs, furloughed employees, rescinded job offers) was concered with being rejected from a job despite being qualified:
            -  >  I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?
            -  
 
@@ -41,15 +54,29 @@
 
     - take a look at the titles for May 2020's top 5 highest scoring posts
   
-| Post      | Score |  Link|
+| Top 5 Posts in May on R/CareerGuidance       | Score |  Link|
 | ----------- | ----------- | ----|
 | Anyone else graduated, got in a 'career' and realise there was more to life than work?       |   1147
   |  |
 | Is there no place for employees that are just pretty good at their jobs?   | Text  | |
 | How do I get over my deep-seated dislike of working?| |
-| | |
+|Itâ€™s no longer enough to do your job, but you have to be above and beyond to keep it?
+ | |
+ |Lost in job hunt and life, what the hell do I do now?
+ | |
 
-1. 
+- these are posts with a bleak interpretation of work,
+- Let's compare this to the top five posts from r/jobs from May:
+
+| Top 5 Posts in May on R/Jobs     | Score |  Link|
+| ----------- | ----------- | ----|
+|Does anyone else find LinkedIn toxic? |   1147|  |
+| How will I ever go back to an office?  | Text  | |
+| Today, I just found out that my previous job was listed online a week ago as open and is accepting applications.| |
+|Has "faking it till you make it" gone too far?
+
+
+These tables paint a bleak picture of the state of the worker in America, both in service and non-service based roles. 
 
 # Summary + Possible Limitations of My Analysis
 
