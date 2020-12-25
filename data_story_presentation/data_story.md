@@ -41,7 +41,7 @@ It's clear that the average post scores in March were much higher than the avera
 | Highest Post Score | 772 | 1484 |
 
 ### April 2020 in R/CareerGuidance
- In April, something interesting happened.
+ In April, something interesting happened. t
 
   - Users began feeling anxiety regarding quitting or losing their jobs during the pandemic. It became an economic threat as well as a health threat.
   - From the data we find that the highest ranking post in April in r/careerguidance was directly related to losing your job during the coronavirus pandemic:      QUOTED HERE: 
