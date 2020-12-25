@@ -55,10 +55,9 @@ It's clear that the average post scores in March were much higher than the avera
 - The table of statistics for April in the same forum, r/CareerGuidance, shows a massive spike in post scores, and a realtively high top scoring post (it actually turned out to be the second highest scoring post on the subreddit ever, second only to one post, this was exciting since we )
 
 - In contrast, the post with the highest number of comments from r/careerguidance from March 2020 (too soon for the full extent of masssive layoffs, furloughed employees, rescinded job offers) was concered with being rejected from a job despite being qualified:
-           -  >  I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?
-           -
+    -  >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?"
 
-
+## Landscape of Posts Before March 2020:
 1. What were the most popular types of posts before th onset of the pandemic? Which were the most popular types of posts after the onset?
     - INSERT TOP 5 SCORES FROM COVID DF FOR RJOBS VS TOP 5 SCORED FROM NON COVID DF FOR R JOBS
     - HIGHLIGHT THE TOP 5 POSTS FROM EACH in bar plot
@@ -75,11 +74,10 @@ It's clear that the average post scores in March were much higher than the avera
   |  |
 | Is there no place for employees that are just pretty good at their jobs?   | Text  | |
 | How do I get over my deep-seated dislike of working?| |
-|Itâ€™s no longer enough to do your job, but you have to be above and beyond to keep it?
- | |
- |Lost in job hunt and life, what the hell do I do now?
- | |
+|It's no longer enough to do your job, but you have to be above and beyond to keep it?| |
+ | Lost in job hunt and life, what the hell do I do now?| |
 
+- Interpretation:
 - these are posts with a bleak interpretation of work,
 - Let's compare this to the top five posts from r/jobs from May:
 
