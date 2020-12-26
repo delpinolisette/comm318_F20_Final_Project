@@ -10,10 +10,9 @@
 │   ├───processed
 │   └───raw
 ├───data_analysis
-│   ├───.ipynb_checkpoints
 │   └───scraping
-│       ├───.ipynb_checkpoints
-│       └───__pycache__
+│       ├─── jobs_scrape.py (deletion )
+│       └─── Using PRAW to Scrape Data
 └───data_story_presentation
 ```
 

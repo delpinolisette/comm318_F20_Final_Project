@@ -16,7 +16,8 @@
 - `posts_experienced_devs.csv`:
 - `posts_cs_career.csv`:
 
-`processed`: 
+`processed` folder:
+
 - `career_feb.csv`: 
 - `job_feb.csv`:
 
