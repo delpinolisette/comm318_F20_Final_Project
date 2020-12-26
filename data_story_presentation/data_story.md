@@ -48,6 +48,8 @@ This figure (Figure 1) illustrates this disparity in popularity of the posts bet
 
 ![2020 Outperforms in Subreddit @Lisette del Pino, source: scraped data from Reddit](img/fig_1.png)
 
+The blue bars represent the number of posts in the Top 1000 list from the corresponding year on the y-axis. 2020 outperforms all other years. 
+
 This fact is particularly impressive considering that the top 1000 group consists of the top 1000 posts of all time since the inception of the subreddit, which was in 2011!
 
 To me, this means that 2020 saw more user engagement or a form of user "agreement" than any other year. "Likes" and "upvotes" are, after all, a way for someone to agree with the sentiment of a post. The Top 1000 list keeps track of record numbers of these "upvotes". 
@@ -63,6 +65,8 @@ In fact, 393 of the posts in the Top 1000 were from 2020, 308 were from 2019, 15
 This figure illustrates this disparity in popularity of the posts between years on r/Jobs:
 
 ![2020 Outperforms in Subreddit @Lisette del Pino, source: scraped data from Reddit](img/fig_2.png)
+
+The blue bars represent the number of posts in the Top 1000 list from the corresponding year on the y-axis. Again, 2020 outperforms all other years. 
 
 This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in 2008 also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
