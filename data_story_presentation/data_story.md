@@ -64,14 +64,6 @@ This figure illustrates this disparity in popularity of the posts between years 
 This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in *2008* also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
 
-### Another Question: 
-
-I was first most curious about the overall landscape of the top 1000 posts of all time in these subreddits. Did activity go up on these subreddits after the beginning of the Covid 19 Lockdown? What about  I investigated (spolier: it did, a bit, in CareerGuidance)
-- The data can be found in data/raw folder.
-- - I scraped the top 1000 posts of all time (most votes and comments) and found interesting patterns:
-- For r/careerguidance, after subsetting the data by month, I found....
-
-
 ### February, March, and April 2020 in R/CareerGuidance
 
 In order to investigate whether there was a spike in activity and engagement after the arrival of the Coronavirus to the US, I wanted to focus on key statistics from the months that suffered the initial shock of COVID-19. To do this, I separated the Top 1000 posts list into months from 2020, and the results are listed in the table below. February acts as the "control" month, since the coronavirus was initially confirmed to be a threat in the US closer to March. It is clear that after the economic effects of the virus first began in March and April, a few key statistics start to trend upwards. 
@@ -87,39 +79,44 @@ In order to investigate whether there was a spike in activity and engagement aft
 
 It's clear that the average post scores in March and April were much higher than the average post scores in the Top 1000 and in February (267.42 and 245.7 points compared to 208.5 points and 207 points). Then, more users "agreed" with the sentiment of posts in March and April, since scores record the number of upvotes. 
 
-Indeed, another important statistic trended upwards in the critical months of March and April. The average number of comments in March and April were *99.84* and *84/73*, respectively, compared to *80.74* in February and *77.01* in the Top 1000. A higher average number of comments on a post indicates a higher level of user engagement with a post. From this it seems to me that a lot more users were involved with the posts in the critical months after the beginning of the economic fallout of the pandemic. 
+Indeed, another important statistic trended upwards in the critical months of March and April. The average number of comments in March and April were *99.84* and *84/73*, respectively, compared to *80.74* in February and *77.01* in the Top 1000. A higher average number of comments on a post indicates a higher level of user engagement with a post. From this pattern, it seems that a lot more users were involved with the posts in the critical months after the beginning of the economic fallout of the pandemic. 
 
 Notice that while this rise in engagement could possibly be attributed to the fact more people were online thanks to the social distancing measures, these are job seeking advice forums, so I would like to think that the rise in engagement was correlated with the start of the economic crisis. Of course, to establish correlation we need to calculate a correlation. 
 
 ### April 2020 in R/CareerGuidance
 
-From the table above, we see that an important statistic in April was the record top scoring post, which was much higher than in the previous months (1250 compared to 675 in February and 772 in March).
+From the table above, we see that an important statistic in April was the record top scoring post, which was much higher than in the previous months (*1250* compared to *675* in February and *772* in March).
 
 
-Let's look at the contents of this record post. 
-  - From the data, we find that this post with a score of 1250 in r/careerguidance was directly related to losing your job during the coronavirus pandemic:   
-    -  > "Are you seriously trying to quit your job during a global pandemic and impending recession? o_O
-    -  >  (Advice) This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown restrictions alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck! o_O"
+Let's look at the contents of this record post:
 
-[source](https://www.reddit.com/r/careerguidance/comments/g4d70n/are_you_seriously_trying_to_quit_your_job_during/)
+We find that this post with a score of 1250 in r/careerguidance was directly related to losing your job during the coronavirus pandemic:   
+  -  > "Are you seriously trying to quit your job during a global pandemic and impending recession? o_O
+  -  >  (Advice) This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown restrictions alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck! o_O" [source](https://www.reddit.com/r/careerguidance/comments/g4d70n/are_you_seriously_trying_to_quit_your_job_during/)
   
-From this, we can see that users began feeling anxiety regarding quitting or losing their jobs during the pandemic. There was tension regarding job security during the pandemic. It gained status as an economic threat in addition to its status as a health threat.
+From the fact this was upvoted so many times, I'd say we can see that users began feeling anxiety regarding quitting or losing their jobs during the pandemic. The coronavirus started to gain status as an economic threat in addition to its status as a health threat.
 
 An interesting thing to note is that this post is actually the second highest scoring post on the forum from all time, second only to a post from 2019. 
 
-For control purposes (as close as we can get to a control), let's look at the post with the highest number of comments in February: [source](https://www.reddit.com/r/careerguidance/comments/f4wjvk/do_you_wished_you_had_done_some_job_shadowing/)
+For control purposes (as close as we can get to a control), let's look at the post with the highest number of comments in February: 
 
-- > "Do you wished you had done some job shadowing before declaring your major in college?"
+- > "Do you wished you had done some job shadowing before declaring your major in college?"[source](https://www.reddit.com/r/careerguidance/comments/f4wjvk/do_you_wished_you_had_done_some_job_shadowing/)
 
-The highest scoring post in Februrary is an intersting question regarding job shadowing and not at all concerned with the coronavirus pandemic. 
+The highest scoring post in Februrary is a question regarding job shadowing and not at all concerned with the coronavirus pandemic. There's still not a focus on job searching during the pandemic. 
 
 Let's also investigate the highest scoring post from March in R/Careerguidance. March was almost too soon to see the full extent of massive layoffs and resciended job offers. 
-- >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?" 
-[source](https://www.reddit.com/r/careerguidance/comments/fitp9r/i_was_rejected_from_a_position_that_required_a/)
+- >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?" [source](https://www.reddit.com/r/careerguidance/comments/fitp9r/i_was_rejected_from_a_position_that_required_a/)
 
 This post is concered with rejection from a job, and never mentions the Coronavirus as a reason for the rejection. 
 
 From this pattern, we see engagement rise when the top posts concern the pandemic,(April's top post had about 500 points more than previous months' top posts) a health and economic threat every user was feeling. 
+
+
+## Another Question:
+
+I also wanted to investigate:
+
+**What is the overall type of posts on these subreddits, both before and after the start of the economic downturn (start of the "Lockdown")? Was there a change in the type of subjects discussed?**
 
 
 ## *Language Landscape* of Posts Before March 2020:
