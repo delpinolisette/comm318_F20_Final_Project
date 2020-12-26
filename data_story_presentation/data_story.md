@@ -144,6 +144,9 @@ In order to investigate the "language landscape" of the most popular jobs just b
 These top posts serve as our "control". The "rank" column refers to the posts's place in top scoring posts for that month. While I expected these posts to be a bit more optimisitic, I found that the language of R/Jobs is still bleak, suggesting that posts on R/jobs had a baseline "bleakness" to them. 
 
 ### Language of March 2020 in R/Careerguidance and R/Jobs:
+
+I then carried out the same analysis for March across both subreddits:
+
 | R/Jobs | R/Careerguidance | Rank |
 | --------|-----------------|-------|
 | There should be some kind of regulation where job postings must include the pay and physical work address|Anyone feel depressed after being on LinkedIn? |1 |
@@ -152,9 +155,9 @@ These top posts serve as our "control". The "rank" column refers to the posts's 
 | Had a Job Interview cancelled due to Coronavirus in the area. What do I say to the employer?| Anyone else get annoyed with LinkedIn? (Rant)| 4|
 |Just received a job offer. . . I've never been less excited.| Has the COVID-19 response delayed anyone else's career path?| 5|
 
-### Language of April 2020 in R/Careerguidance and R/Jobs:
+We can certainly see that there was a trend in March, in both subreddits. Several of the top five scoring posts were directly concerned with the interference of Coronavirus with the job search. For one user, there was even a sense of guilt associated with leaving a job where they were an essential worker (see: Rank 2 post on R/Jobs in the table). 
 
-- > "April is the cruelest month" -T.S Eliot
+### Language of April 2020 in R/Careerguidance and R/Jobs:
 
 
 | R/Jobs | R/Careerguidance | Rank |
