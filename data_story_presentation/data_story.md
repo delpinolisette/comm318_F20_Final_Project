@@ -26,6 +26,14 @@
 
     - For r/careerguidance, after subsetting the data by month, I found....
 
+### An Interesting Pattern from R/CareerGuidance:
+
+I scraped the top 1000 posts of all time (top 1000 posts with highest number of upvotes, or likes, since the inception of the subreddit) and found an interesting pattern:
+2020 dominated the landscape of the top 1000 posts of all time in R/Careerguidance. In fact, we have that a whopping $547$ of the posts in the Top 1000 list (so the majority by many standards) were from 2020!
+
+![2020 Outperforms in Subreddit](fig_1.png)
+
+
 ### March 2020 in R/CareerGuidance
 
 This table shows that the statistics from r/CareerGuidance from March. Note that the March statistics are being compared to a database containing the top 1000 posts of all time (at least since the forum was founded in 2011), so an average statistic from March 2020 which is close to the average statistic from the general top posts is quite impressive!
@@ -85,10 +93,10 @@ It's clear that the average post scores in March were much higher than the avera
 
 | Top 5 Posts in May on R/Jobs     | Score |  Link|
 | ----------- | ----------- | ----|
-|Does anyone else find LinkedIn toxic? |   1147|  |
-| How will I ever go back to an office?  | Text  | |
+|Does anyone else find LinkedIn toxic? |   1147 | |
+| How will I ever go back to an office? | Text | |
 | Today, I just found out that my previous job was listed online a week ago as open and is accepting applications.| |
-|Has "faking it till you make it" gone too far?
+|Has "faking it till you make it" gone too far? | | 
 
 
 These tables paint a bleak picture of the state of the worker in America, both in service and non-service based roles.
