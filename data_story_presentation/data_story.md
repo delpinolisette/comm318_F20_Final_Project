@@ -148,11 +148,11 @@ These top posts serve as our "control". The "rank" column refers to the posts's 
 ### Language of April 2020 in R/Careerguidance and R/Jobs:
 | R/Jobs | R/Careerguidance | Rank |
 | --------|-----------------|-------|
-| | Are you seriously trying to quit your job during a global pandemic and impending recession? o_O| 1|
-| | Do you feel like COVID-19 is going to change the workforce permanently?| 2|
-| |What are some niche careers that while not that widely known, you think people should be aware of? | 3|
-| |My company keeps forcing everyone to do social activities on webcam as a means of overcompensating for the fact that we're working from home. I'm really not a fan of this. What should I do? | 4|
-| |Hello Millenials. I'm graduating university next year into the recession/depression, and I'm terrified. How did you survive the 2009 recession and its aftermath? | 5|
+|Why Do Nearly All Entry-Level Jobs Require Unrealistic Amounts of Experience or Certifications?| Are you seriously trying to quit your job during a global pandemic and impending recession? o_O| 1|
+| Has anyone actually stopped caring about a position/company before because they have the most outrageous interviewing processes or do things that are just weird/bad? I know this isnt even related to my job function but sometimes this stuff is just too much.| Do you feel like COVID-19 is going to change the workforce permanently?| 2|
+| Got my first Interview Ever!!!|What are some niche careers that while not that widely known, you think people should be aware of? | 3|
+| I'm 29 and I've been unemployed for 1.5 years because I wanted to. What do I say on my next interview?|My company keeps forcing everyone to do social activities on webcam as a means of overcompensating for the fact that we're working from home. I'm really not a fan of this. What should I do? | 4|
+| Would you work 13 hours a day 3 day a week?|Hello Millenials. I'm graduating university next year into the recession/depression, and I'm terrified. How did you survive the 2009 recession and its aftermath? | 5|
 
 ### Language of May 2020 in R/Careerguidance and R/Jobs:
 
