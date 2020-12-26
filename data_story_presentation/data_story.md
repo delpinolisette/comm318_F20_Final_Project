@@ -125,10 +125,16 @@ From this pattern, we see engagement rise when the top posts concern the pandemi
 
 In order to investigate the "language landscape" of the most popular jobs just before the start of the pandemic, let's look at the titles of the top five posts from February in both subreddits:
 
-| R/Jobs | R/Careerguidance | Score |
+| R/Jobs | R/Careerguidance | Rank |
 | --------|-----------------|-------|
-|
+| Thanks r/jobs, I'm surprised this actually worked. Phone Interview: "What payment compensation do you want to receive while working here?" Me: "I would like to be compensated fairly based off my responsibilities, what do you suggest?" "Well our range is $___ to $___"|Do you wished you had done some job shadowing before declaring your major in college? | 1 |
+|We Need To Openly Talk About The Mental And Emotional Anguish Faced By Job Seekers | I found my coworkers have a secret group chat where they slander my name or chat about me. What should I do?| 2|
+|Finally offered a job after using this sub & 134 job applications later...here's what I learned. | Is there more to life than a 9-5, 40-hour work week?| 3|
+| My 16-month job search has come to an end| How important to you is it to have a good boss?| 4|
+|Is employer interviewing then ghosting just the norm now? |Only work about 3 actual hours per day (non salaried) and boss is non the wiser and thinks I do good work. Should I tell her the reality? | 5|
 
+
+These top posts serve as our "control". The language of R/Jobs is still bleak, 
 
 
 
@@ -166,4 +172,4 @@ Summary: I found increased activity in the form of both user engagement (comment
 
 1. One social media site is not a faithful representation of the entire country, but drastic changes online might signal drastic changes in the US economic landscape.
 2. people who are doing well are not going to be posting on the internet about their struggles, so perhaps there is a bias here towards people who are feeling left out of the job finding process. 
-3. 
+3. stuff that scores high on social media isnt necesarily the real world, usually the bleaker, pessimistic stuff scores higher than serene posts. 
