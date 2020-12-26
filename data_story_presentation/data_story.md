@@ -97,9 +97,20 @@ From this, we can see that users began feeling anxiety regarding quitting or los
 
 An interesting thing to note is that this post is actually the second highest scoring post on the forum from all time, second only to a post from 2019. 
 
+For control purposes (as close as we can get to a control), let's look at the post with the highest number of comments in February: [source](https://www.reddit.com/r/careerguidance/comments/f4wjvk/do_you_wished_you_had_done_some_job_shadowing/)
 
-- In contrast, the post with the highest number of comments from r/careerguidance from March 2020 (too soon for the full extent of masssive layoffs, furloughed employees, rescinded job offers) was concered with being rejected from a job despite being qualified:
-    -  >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?"
+- > "Do you wished you had done some job shadowing before declaring your major in college?"
+
+The highest scoring post in Februrary is an intersting question regarding job shadowing and not at all concerned with the coronavirus pandemic. 
+
+Let's also investigate the highest scoring post from March in R/Careerguidance. March was almost too soon to see the full extent of massive layoffs and resciended job offers. 
+- >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?" 
+[source](https://www.reddit.com/r/careerguidance/comments/fitp9r/i_was_rejected_from_a_position_that_required_a/)
+
+This post is concered with rejection from a job, and never mentions the Coronavirus as a reason for the rejection. 
+
+From this pattern, we see engagement rise when the top posts concern the pandemic,(April's top post had about 500 points more than previuos months' top posts) a health and economic threat every user was feeling. 
+
 
 ## Landscape of Posts Before March 2020:
 1. What were the most popular types of posts before th onset of the pandemic? Which were the most popular types of posts after the onset?
@@ -109,6 +120,10 @@ An interesting thing to note is that this post is actually the second highest sc
     - During this time, we also see a rise in users complaining about not being able to find work, despite their best efforts:
 
     - take a look at the titles for May 2020's top 5 highest scoring posts
+
+### February in R/Careerguidance and R/Jobs:
+
+In order to investigate the "language landscape of the most popular jobs before "
 
 ### May 2020 in R/CareerGuidance
 
@@ -142,4 +157,5 @@ These tables paint a bleak picture of the state of the worker in America, both i
 Summary: I found increased activity in the form of both user engagement (comments) and user "agreement" (likes/upvotes) in two very popular job seeking advice forums, aimed to all industries and in particular to people in service roles in the US. Furthermore, the tone of the most popular posts became more bleak, and several reffered to the fear of losing their jobs during the pandemic. 
 
 1. One social media site is not a faithful representation of the entire country, but drastic changes online might signal drastic changes in the US economic landscape.
-2.
+2. people who are doing well are not going to be posting on the internet about their struggles, so perhaps there is a bias here towards people who are feeling left out of the job finding process. 
+3. 
