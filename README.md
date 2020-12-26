@@ -1,7 +1,8 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
+Lisette del Pino
   
-### Directory Tree Diagram
+### Directory Tree Diagram:
 ```
 ├───data
 │   ├───processed (monthly subreddit data in csv)

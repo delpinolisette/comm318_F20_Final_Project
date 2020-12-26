@@ -1,5 +1,8 @@
 # Economic Changes and Frustrations in the US during the Coronavirus Pandemic:  A Story in Reddit Posts
 
+Lisette del Pino
+
+
 # Introduction and Motivation
 The arrival of COVID-19 to the United States, first seen in the reports of cases spreading in nursing homes across the country in early 2020, along with a divided American leadership, helped lead to an economic crisis. 
 In particular, the spread of the virus and its mismanagement, along with the necessity to implement long-term social distancing measures, set off a financial crisis for the service-based industry and its employees. As the day of the posting of this data story, December 26, 2020, there is no easy fix to this issue, since social distancing measures are necessary to stop the spread of the virus. 
@@ -43,7 +46,7 @@ The answer to the question was *yes* in the first subreddit.
 
 This figure (Figure 1) illustrates this disparity in popularity of the posts between years:
 
-![2020 Outperforms in Subreddit](img/fig_1.png)
+![2020 Outperforms in Subreddit @Lisette del Pino, source: scraped data from Reddit](img/fig_1.png)
 
 This fact is particularly impressive considering that the top 1000 group consists of the top 1000 posts of all time since the inception of the subreddit, which was in 2011!
 
@@ -59,7 +62,7 @@ In fact, 393 of the posts in the Top 1000 were from 2020, 308 were from 2019, 15
 
 This figure illustrates this disparity in popularity of the posts between years on r/Jobs:
 
-![2020 Outperforms in Subreddit](img/fig_2.png)
+![2020 Outperforms in Subreddit @Lisette del Pino, source: scraped data from Reddit](img/fig_2.png)
 
 This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in 2008 also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
@@ -80,6 +83,7 @@ February acts as the "control" month, since COVID-19 was initially confirmed to 
 | Highest Number of Comments on Post | 300 | 457* |310 | 579 |
 | Highest Post Score | 675 | 772 |1250 | 1484 |
 
+*table by Lisette del Pino, data from Reddit scraped with PRAW*
 
 It's clear that the average post scores in March and April were much higher than the average post scores in the Top 1000 and in February (267.42 and 245.7 points compared to 208.5 points and 207 points). Then, more users "agreed" with the sentiment of posts in March and April, since scores record the number of upvotes. 
 
@@ -141,6 +145,7 @@ In order to investigate the "language landscape" of the most popular jobs just b
 | My 16-month job search has come to an end| How important to you is it to have a good boss?| 4|
 |Is employer interviewing then ghosting just the norm now? |Only work about 3 actual hours per day (non salaried) and boss is non the wiser and thinks I do good work. Should I tell her the reality? | 5|
 
+*table by Lisette del Pino, data from Reddit scraped with PRAW*
 
 These top posts serve as our "control". The "rank" column refers to the post's place in top scoring posts for that month. While I expected these posts to be a bit more optimistic, I found that the language of R/Jobs is still bleak, suggesting that posts on R/jobs had a baseline "bleakness" to them. 
 
@@ -155,6 +160,8 @@ I then carried out the same analysis for March across both subreddits:
 |How do you deal with the guilt that comes along with trying to enjoy yourself while being unemployed?| Interviewer berated me because of a misspelled word on my resume, they were incorrect. How should I have handled this situation?|3 |
 | Had a Job Interview cancelled due to Coronavirus in the area. What do I say to the employer?| Anyone else get annoyed with LinkedIn? (Rant)| 4|
 |Just received a job offer. . . I've never been less excited.| Has the COVID-19 response delayed anyone else's career path?| 5|
+
+*table by Lisette del Pino, data from Reddit scraped with PRAW*
 
 We can certainly see that there was a trend towards "bleakness" for the top posts in March, in both subreddits. 
 
@@ -171,6 +178,8 @@ Several of the top five scoring posts were directly concerned with the interfere
 | I'm 29 and I've been unemployed for 1.5 years because I wanted to. What do I say on my next interview?|My company keeps forcing everyone to do social activities on webcam as a means of overcompensating for the fact that we're working from home. I'm really not a fan of this. What should I do? | 4|
 | Would you work 13 hours a day 3 day a week?|Hello Millenials. I'm graduating university next year into the recession/depression, and I'm terrified. How did you survive the 2009 recession and its aftermath? | 5|
 
+*table by Lisette del Pino, data from Reddit scraped with PRAW*
+
 I would argue that April was the month with the highest number of "discouraged"/"bleak" top posts. Most of the top five ranking comments had to do with the fear of not finding work, and are directly related to the economic fallout sparked by the spread of COVID-19. 
 
 ### Language of May 2020 in R/Careerguidance and R/Jobs:
@@ -182,6 +191,8 @@ I would argue that April was the month with the highest number of "discouraged"/
 |I'm going to a job interview in 2 hours -- do I wear a mask?? |How do I get over my deep-seated dislike of working? | 3|
 | I was laid off due to COVID-19 on March 20th. Was told my position was eliminated. Today, I just found out that my previous job was listed online a week ago as open and is accepting applications.|It's no longer enough to do your job, but you have to be above and beyond to keep it | 4|
 |Has "faking it till you make it" gone too far?| Lost in job hunt and life, what the hell do I do now| 5|
+
+*table by Lisette del Pino, data from Reddit scraped with PRAW*
 
 May certainly has less bleak top posts than April, but the table still shows that the most upvoted posts still expressed deep concern with the effects of COVID-19 on job losses (see Rank 4 post in R/Jobs). 
 
