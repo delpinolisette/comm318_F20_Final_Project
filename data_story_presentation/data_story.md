@@ -1,12 +1,12 @@
 # Economic Changes and Frustrations in the US during the Coronavirus Pandemic:  A Story in Reddit Posts
 
 # Introduction and Motivation
-The arrival of COVID-19 to the United States, first seen in the horrific reports of cases spreading in nursing homes across the country in early 2020, along with a divided American leadership, helped lead to an economic crisis. 
-In particular, the mismanagement and spread of the virus, along with the necessity to implement long-term social distancing measures, began a financial crisis for the service-based industry and its employees. As the day of the posting of this data story, December 26, 2020, there is no easy fix to this issue, since social distancing measures are necessary to stop the spread of the virus. 
+The arrival of COVID-19 to the United States, first seen in the reports of cases spreading in nursing homes across the country in early 2020, along with a divided American leadership, helped lead to an economic crisis. 
+In particular, the spread of the virus and its mismanagement, along with the necessity to implement long-term social distancing measures, set off a financial crisis for the service-based industry and its employees. As the day of the posting of this data story, December 26, 2020, there is no easy fix to this issue, since social distancing measures are necessary to stop the spread of the virus. 
 
 ### Motivation
 
-As someone who has worked in all sorts of service roles in the past and recalling how many of my coworkers supported their families on an almost minimum wage income, this freezing of the service economy is especially worrisome. Furthermore, in states like Florida, physical unemployment benefit offices (the primary way Floridians apply for unemployment benefits) were shut down because of the pandemic; however, the online unemployment benefit application websites had been broken for years [source](https://www.tampabay.com/news/health/2020/03/31/ron-desantis-was-warned-about-floridas-broken-unemployment-website-last-year-audit-shows/). The reality of having absolutely no funds to pay rent or to buy food was very real for many Americans. 
+As someone who has worked in all sorts of service roles in the past and recalling how many of my coworkers supported their families on an almost minimum wage income, this freezing of the service economy is especially worrisome. Furthermore, in states like Florida, unemployment benefit offices, physical ones, which were the primary way Floridians applied  for unemployment benefits, were shut down because of the pandemic. At the same time, the online unemployment benefit application websites had been broken for years [(source)](https://www.tampabay.com/news/health/2020/03/31/ron-desantis-was-warned-about-floridas-broken-unemployment-website-last-year-audit-shows/). The threat of having no funds to pay rent or to buy food was real for many Americans. 
 
 Also, I am interested in investigating this trend since my hometown of Miami, Florida relies on a vibrant tourism industry to keep its economy healthy. I am concerned about the long term effects of residents of Miami being unable to find work, while receiving little financial support from the government. 
 
@@ -167,6 +167,8 @@ We can certainly see that there was a trend in March, in both subreddits. Severa
 | Got my first Interview Ever!!!|What are some niche careers that while not that widely known, you think people should be aware of? | 3|
 | I'm 29 and I've been unemployed for 1.5 years because I wanted to. What do I say on my next interview?|My company keeps forcing everyone to do social activities on webcam as a means of overcompensating for the fact that we're working from home. I'm really not a fan of this. What should I do? | 4|
 | Would you work 13 hours a day 3 day a week?|Hello Millenials. I'm graduating university next year into the recession/depression, and I'm terrified. How did you survive the 2009 recession and its aftermath? | 5|
+
+I would argue that April was the month with the highest number of discouraged top posts. Most of the top five ranking comments had to do with economic un
 
 ### Language of May 2020 in R/Careerguidance and R/Jobs:
 
