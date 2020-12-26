@@ -75,9 +75,11 @@ In order to investigate whether there was a spike in activity and engagement aft
 | Highest Post Score | 675 | 772 |1250 | 1484 |
 
 
-It's clear that the average post scores in March and April were much higher than the average post scores in Top 1000 posts of all time and in February (267.42 and 245.7 points compared to 207 and 2018.5 points). Then, more users "agreed" with the sentiment of posts in March and April, since scores record the number of likes/upvotes. 
+It's clear that the average post scores in March and April were much higher than the average post scores in Top 1000 posts of all time and in February (267.42 and 245.7 points compared to 207 and 2018.5 points). Then, more users "agreed" with the sentiment of posts in March and April, since scores record the number of upvotes. 
 
-Another important statistic trends upwards in the critical months of March and April. The average number of comments 
+Another important statistic trends upwards in the critical months of March and April. The average number of comments in March and April were *99.84* and *84/73*, respectively, compared to *80.74* in February and *77.01* in the Top 1000. A higher average number of comments on a post indicates a higher level of user engagement with a post. From this it seems to me that a lot more users were involved with the posts in the critical months after the beginning of the economic fallout of the pandemic. 
+
+Notice that while this rise in engagement could possibly be attributed to the fact more people were
 
 | Statistic   | March Posts | --Top 1000 Form Posts of All Time--
 | ----------- | ----------- | ----------- |
@@ -141,6 +143,8 @@ Another important statistic trends upwards in the critical months of March and A
 These tables paint a bleak picture of the state of the worker in America, both in service and non-service based roles.
 
 # Summary + Possible Limitations of My Analysis
+
+Summary: I found increased activity in the form of both user engagement (comments) and user "agreement" (likes/upvotes) in two very popular job seeking advice forums, aimed to all industries and in particular to people in service roles in the US. Furthermore, the tone of the most popular posts became more bleak, and several reffered to the fear of losing their jobs during the pandemic. 
 
 1. One social media site is not a faithful representation of the entire country, but drastic changes online might signal drastic changes in the US economic landscape.
 2.
