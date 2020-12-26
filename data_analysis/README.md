@@ -1,8 +1,12 @@
 ## Data analysis notebooks for COMM318 _Stories from data_ Final Project
 
-* This folder should contain the a series of Jupyter notebooks you create to do the data analysis.
+### Contents of Jupyter Notebooks: 
 
-* Update this README file to document the notebooks and give a short description of what each one does.
+- `r_career_guidance_data_exploration.ipynb`: contains the full extent of my data analysis on the R/Careerguidance data. Has useful tables keeping track of important statistics from the data. 
+
+- `r_jobs_data_exploration.ipynb`: contains the full extent of my data analysis on the R/Jobs data. Has tables keeping track of important statistics from the data, as well as critical figures. 
+
+- `init_data_exp_LPT.ipynb`: can be safely ignored. It contains my initial attempts at data analysis of another, random subreddit. 
 
 
 

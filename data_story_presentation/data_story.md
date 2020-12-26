@@ -41,7 +41,7 @@ The answer to the question was *yes* in the first subreddit.
 
 2020 dominated the landscape of the top 1000 posts of all time in R/Careerguidance. In fact, we have that a whopping 547 of the posts in the Top 1000 list (so the majority by many standards) were from 2020! Only 383 were from 2019, 67 were from 2018, and 3 were from 2017. 2016 saw no share in the Top 1000. 
 
-This figure illustrates this disparity in popularity of the posts between years:
+This figure (Figure 1) illustrates this disparity in popularity of the posts between years:
 
 ![2020 Outperforms in Subreddit](img/fig_1.png)
 
