@@ -6,7 +6,7 @@ In particular, the mismanagement and spread of the virus, along with the necessi
 
 ### Motivation
 
-As someone who has worked in all sorts of service roles in the past and recalling how many of my coworkers supported their families on an almost minimum wage income, this freezing of the service economy is especially worrisome. Furthermore, in states like Florida, physical unemployment benefit offices (the primary way Floridians apply for unemployment benefits) were shut down because of the pandemic, but the online unemployment benefit application websites had been broken for years [source](https://www.tampabay.com/news/health/2020/03/31/ron-desantis-was-warned-about-floridas-broken-unemployment-website-last-year-audit-shows/). The reality of having absolutely no funds to pay rent or to buy food was very real for many Americans. 
+As someone who has worked in all sorts of service roles in the past and recalling how many of my coworkers supported their families on an almost minimum wage income, this freezing of the service economy is especially worrisome. Furthermore, in states like Florida, physical unemployment benefit offices (the primary way Floridians apply for unemployment benefits) were shut down because of the pandemic; however, the online unemployment benefit application websites had been broken for years [source](https://www.tampabay.com/news/health/2020/03/31/ron-desantis-was-warned-about-floridas-broken-unemployment-website-last-year-audit-shows/). The reality of having absolutely no funds to pay rent or to buy food was very real for many Americans. 
 
 Also, I am interested in investigating this trend since my hometown of Miami, Florida relies on a vibrant tourism industry to keep its economy healthy. I am concerned about the long term effects of residents of Miami being unable to find work, while receiving little financial support from the government. 
 
@@ -16,18 +16,24 @@ Also, I am interested in investigating this trend since my hometown of Miami, Fl
 
 ---
 
-### Methodology:
+### Choice of Data Source and Data Acquisition Method:
 
-3.	Where Did I Source the Data From?
-    - I sourced it from popular job seeking and advice forums on Reddit, a social media website, for several reasons.
-        - It is free to make an account on Reddit – anyone can go on it seeking for advice.
-        - Reddit is home to just under 30 million American users, and I am most concerned with the American economic impact in this data story.
-    - In particular, I chose two popular subreddits – R/Jobs and R/CareerGuidance. These are field agnostic (not tech job subreddits, which are also common on the website), and workers from the service economy frequently post on it looking for job search advice.
+The data was sourced from two popular job advice subreddits (forums) on Reddit.com, r/Jobs and r/Careerguidance. I chose these two forums since they are field agnostic. Other job advice forums seem to skew towards tech careers, and I wanted to focus on the impact to those in non-tech roles. 
+
+I chose the social media site Reddit since it is free to make an account, and it has been around for fifteen years. Also, just under 30 million Americans are on Reddit; the user base skews towards Americans. 
+
+I scraped the Top 1000 posts of all time from the target forums, where “top” status is determined by number of upvotes. Therefore, the Top 1000 posts data for R/Jobs is a record of the top 1000 most liked posts since the inception of the forum in 2008. 
+
+The scraping itself was done using PRAW, a Python Reddit API wrapper [documentation]( https://praw.readthedocs.io/en/latest/). The results of the data cleaning can be found in the `data` folder, as well as the `data_analysis` folder. The full data are in the form of .csv’s in the ‘data’ folder, for the interested reader. 
 
 
 # Questions and Analysis
 
 ## Landscape of Top 1000 Posts:
+
+First, I wanted to answer the question: 
+
+****
 
 ### **An Interesting Pattern from R/CareerGuidance**:
 
