@@ -82,18 +82,21 @@ Indeed, another important statistic trended upwards in the critical months of Ma
 Notice that while this rise in engagement could possibly be attributed to the fact more people were online thanks to the social distancing measures, these are job seeking advice forums, so I would like to think that the rise in engagement was correlated with the start of the economic crisis. Of course, to establish correlation we need to calculate a correlation. 
 
 ### April 2020 in R/CareerGuidance
- In April, something interesting happened.
 
-  - Users began feeling anxiety regarding quitting or losing their jobs during the pandemic. It became an economic threat as well as a health threat.
-  - From the data we find that the highest ranking post in April in r/careerguidance was directly related to losing your job during the coronavirus pandemic:      QUOTED HERE: 
+From the table above, we see that an important statistic in April was the record top scoring post, which was much higher than in the previous months (1250 compared to 675 in February and 772 in March).
+
+
+Let's look at the contents of this record post. 
+  - From the data, we find that this post with a score of 1250 in r/careerguidance was directly related to losing your job during the coronavirus pandemic:   
     -  > "Are you seriously trying to quit your job during a global pandemic and impending recession? o_O
-    -  >  (Advice) This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown restrictions alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck!"
-    -  From this top post, we can see tension is rising regarding job security amidst the pandemic.
-    -  This had the highest number of upvotes, meaning users upvoted this post more than any other post made in April in 2020.
+    -  >  (Advice) This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown restrictions alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck! o_O"
 
+[source](https://www.reddit.com/r/careerguidance/comments/g4d70n/are_you_seriously_trying_to_quit_your_job_during/)
+  
+From this, we can see that users began feeling anxiety regarding quitting or losing their jobs during the pandemic. There was tension regarding job security during the pandemic. It gained status as an economic threat in addition to its status as a health threat.
 
+An interesting thing to note is that this post is actually the second highest scoring post on the forum from all time, second only to a post from 2019. 
 
-- The table of statistics for April in the same forum, r/CareerGuidance, shows a massive spike in post scores, and a realtively high top scoring post (it actually turned out to be the second highest scoring post on the subreddit ever, second only to one post, this was exciting since we )
 
 - In contrast, the post with the highest number of comments from r/careerguidance from March 2020 (too soon for the full extent of masssive layoffs, furloughed employees, rescinded job offers) was concered with being rejected from a job despite being qualified:
     -  >  "I was rejected from a position that required a high school diploma when I have a bachelor's. How am I supposed to properly handle how pathetic I feel right now?"
