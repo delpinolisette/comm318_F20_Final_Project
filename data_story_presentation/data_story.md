@@ -109,7 +109,7 @@ Let's also investigate the highest scoring post from March in R/Careerguidance. 
 
 This post is concered with rejection from a job, and never mentions the Coronavirus as a reason for the rejection. 
 
-From this pattern, we see engagement rise when the top posts concern the pandemic,(April's top post had about 500 points more than previuos months' top posts) a health and economic threat every user was feeling. 
+From this pattern, we see engagement rise when the top posts concern the pandemic,(April's top post had about 500 points more than previous months' top posts) a health and economic threat every user was feeling. 
 
 
 ## *Language Landscape* of Posts Before March 2020:
@@ -121,7 +121,7 @@ From this pattern, we see engagement rise when the top posts concern the pandemi
 
     - take a look at the titles for May 2020's top 5 highest scoring posts
 
-### February in R/Careerguidance and R/Jobs:
+### Language of February 2020 in R/Careerguidance and R/Jobs:
 
 In order to investigate the "language landscape" of the most popular jobs just before the start of the pandemic, let's look at the titles of the top five posts from February in both subreddits:
 
@@ -134,10 +134,35 @@ In order to investigate the "language landscape" of the most popular jobs just b
 |Is employer interviewing then ghosting just the norm now? |Only work about 3 actual hours per day (non salaried) and boss is non the wiser and thinks I do good work. Should I tell her the reality? | 5|
 
 
-These top posts serve as our "control". The language of R/Jobs is still bleak, 
+These top posts serve as our "control". The "rank" column refers to the posts's place in top scoring posts for that month. While I expected these posts to be a bit more optimisitic, I found that the language of R/Jobs is still bleak, suggesting that posts on R/jobs had a baseline "bleakness" to them. 
 
+### Language of March 2020 in R/Careerguidance and R/Jobs:
+| R/Jobs | R/Careerguidance | Rank |
+| --------|-----------------|-------|
+| There should be some kind of regulation where job postings must include the pay and physical work address|Anyone feel depressed after being on LinkedIn? |1 |
+|I really am an essential employee and I'm quitting. How do I make this less painful?|Did Covid-19 put a halt on your job search ? Join the club. |2 |
+|How do you deal with the guilt that comes along with trying to enjoy yourself while being unemployed?| Interviewer berated me because of a misspelled word on my resume, they were incorrect. How should I have handled this situation?|3 |
+| Had a Job Interview cancelled due to Coronavirus in the area. What do I say to the employer?| Anyone else get annoyed with LinkedIn? (Rant)| 4|
+|Just received a job offer. . . I've never been less excited.| Has the COVID-19 response delayed anyone else's career path?| 5|
 
+### Language of April 2020 in R/Careerguidance and R/Jobs:
+| R/Jobs | R/Careerguidance | Rank |
+| --------|-----------------|-------|
+| | Are you seriously trying to quit your job during a global pandemic and impending recession? o_O| 1|
+| | Do you feel like COVID-19 is going to change the workforce permanently?| 2|
+| |What are some niche careers that while not that widely known, you think people should be aware of? | 3|
+| |My company keeps forcing everyone to do social activities on webcam as a means of overcompensating for the fact that we're working from home. I'm really not a fan of this. What should I do? | 4|
+| |Hello Millenials. I'm graduating university next year into the recession/depression, and I'm terrified. How did you survive the 2009 recession and its aftermath? | 5|
 
+### Language of May 2020 in R/Careerguidance and R/Jobs:
+
+| R/Jobs | R/Careerguidance | Rank |
+| --------|-----------------|-------|
+| | | 1|
+| | | 2|
+| | | 3|
+| | | 4|
+| | | 5|
 
 ### May 2020 in R/CareerGuidance
 
