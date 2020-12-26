@@ -4,13 +4,15 @@
 The arrival of COVID-19 to the United States, first seen in the horrific reports of cases spreading in nursing homes across the country in early 2020, along with a divided American leadership, helped lead to an economic crisis. 
 In particular, the mismanagement and spread of the virus, along with the necessity to implement long-term social distancing measures, began a financial crisis for the service-based industry and its employees. As the day of the posting of this data story, December 26, 2020, there is no easy fix to this issue, since social distancing measures are necessary to stop the spread of the virus. 
 
-2.	Why investigate this?
-
-In this data story, I explore the story of this growing economic downturn through activity on job seeking advice forums on a popular social media site, Reddit. 
-
+### Motivation
 
 As someone who has worked in all sorts of service roles in the past and recalling how many of my coworkers supported their families on an almost minimum wage income, this freezing of the service economy is especially worrisome. Furthermore, in states like Florida, physical unemployment benefit offices (the primary way Floridians apply for unemployment benefits) were shut down because of the pandemic, but the online unemployment benefit application websites had been broken for years [source](https://www.tampabay.com/news/health/2020/03/31/ron-desantis-was-warned-about-floridas-broken-unemployment-website-last-year-audit-shows/). The reality of having absolutely no funds to pay rent or to buy food was very real for many Americans. 
+
 Also, I am interested in investigating this trend since my hometown of Miami, Florida relies on a vibrant tourism industry to keep its economy healthy. I am concerned about the long term effects of residents of Miami being unable to find work, while receiving little financial support from the government. 
+
+### Goal
+
+**In this data story, I explore the story of this growing economic downturn through activity on job seeking advice forums on a popular social media site, Reddit.**
 
 ---
 
