@@ -123,7 +123,15 @@ From this pattern, we see engagement rise when the top posts concern the pandemi
 
 ### February in R/Careerguidance and R/Jobs:
 
-In order to investigate the "language landscape of the most popular jobs before "
+In order to investigate the "language landscape" of the most popular jobs just before the start of the pandemic, let's look at the titles of the top five posts from February in both subreddits:
+
+| R/Jobs | R/Careerguidance | Score |
+| --------|-----------------|-------|
+|
+
+
+
+
 
 ### May 2020 in R/CareerGuidance
 
