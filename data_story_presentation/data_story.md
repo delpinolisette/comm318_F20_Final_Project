@@ -20,11 +20,8 @@
     - In particular, I chose two popular subreddits – R/Jobs and R/CareerGuidance. These are field agnostic (not tech job subreddits, which are also common on the website), and workers from the service economy frequently post on it looking for job search advice.
 
 # Questions and Analysis
-1.	Did activity go up on these subreddits after the beginning of the Covid 19 Lockdown? I investigated (spolier: it did, a bit, in CareerGuidance)
-    - The data can be found in data/raw folder.
-    - I scraped the top 1000 posts of all time (most votes and comments) and found interesting patterns:
 
-    - For r/careerguidance, after subsetting the data by month, I found....
+## Landscape of Top 1000 Posts:
 
 ### An Interesting Pattern from R/CareerGuidance:
 
@@ -32,6 +29,19 @@ I scraped the top 1000 posts of all time (top 1000 posts with highest number of 
 2020 dominated the landscape of the top 1000 posts of all time in R/Careerguidance. In fact, we have that a whopping $547$ of the posts in the Top 1000 list (so the majority by many standards) were from 2020! Only $383$ were from 2019, $67$ were from 2018, and $3$ were from 2017. 
 
 ![2020 Outperforms in Subreddit](img/fig_1.png)
+
+### Another Intereting Result from R/Jobs:
+
+
+
+### Was there An Increase In Activity After the Arrival of COVID-19 to the US?
+
+I was first most curious about the overall landscape of the top 1000 posts of all time in these subreddits. Did activity go up on these subreddits after the beginning of the Covid 19 Lockdown? What about  I investigated (spolier: it did, a bit, in CareerGuidance)
+- The data can be found in data/raw folder.
+- - I scraped the top 1000 posts of all time (most votes and comments) and found interesting patterns:
+- For r/careerguidance, after subsetting the data by month, I found....
+
+
 
 
 ### March 2020 in R/CareerGuidance
@@ -54,7 +64,7 @@ It's clear that the average post scores in March were much higher than the avera
   - Users began feeling anxiety regarding quitting or losing their jobs during the pandemic. It became an economic threat as well as a health threat.
   - From the data we find that the highest ranking post in April in r/careerguidance was directly related to losing your job during the coronavirus pandemic:      QUOTED HERE: 
     -  > "Are you seriously trying to quit your job during a global pandemic and impending recession? o_O
-    -  >  Advice This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown retrenchments alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck!"
+    -  >  (Advice) This will probably be downvoted to hell. That’s okay. But really, there has been an uptick in people posting about quitting their jobs. This isn’t to berate you. If you aren’t happy, you really should find a way to leave. ...Where I am, the depression from the lockdown restrictions alone has led to a rise in suicides. Quitting your job and then finding yourself in the cold may put you in a worse off position. This is sounding harsh but it is coming from a good place. Things are going to work out. We just don’t know when. In the meantime, hang in there. Take this global lockdown time to plan your exit meticulously, save up and start skilling up for the jump. Good luck!"
     -  From this top post, we can see tension is rising regarding job security amidst the pandemic.
     -  This had the highest number of upvotes, meaning users upvoted this post more than any other post made in April in 2020.
 
