@@ -22,7 +22,7 @@ The data was sourced from two popular job advice subreddits (forums) on Reddit.c
 
 I chose the social media site Reddit since it is free to make an account, and it has been around for fifteen years. Also, just under 30 million Americans are on Reddit; the user base skews towards Americans. 
 
-I scraped the Top 1000 posts of all time from the target forums, where “top” status is determined by number of upvotes. Therefore, the Top 1000 posts data for R/Jobs is a record of the top 1000 most liked posts since the inception of the forum in 2008. 
+I scraped the Top 1000 posts of all time from the target forums, where “top” status is determined by number of upvotes. Therefore, the Top 1000 posts data for R/Jobs is a record of the top thousand most liked posts since the inception of the forum in 2008. 
 
 The scraping itself was done using PRAW, a Python Reddit API wrapper [documentation]( https://praw.readthedocs.io/en/latest/). The results of the data cleaning can be found in the `data` folder, as well as the `data_analysis` folder. The full data are in the form of .csv’s in the ‘data’ folder, for the interested reader. 
 
@@ -33,11 +33,11 @@ The scraping itself was done using PRAW, a Python Reddit API wrapper [documentat
 
 First, I wanted to answer the question: 
 
-****
+**Did Activity In these subreddits go up in the months surrounding the spread of COVID-19 to the US?**
 
-### **An Interesting Pattern from R/CareerGuidance**:
+### An Interesting Pattern from R/Careerguidance:
 
-I scraped the top 1000 posts of all time (top 1000 posts with highest number of upvotes, or likes, since the inception of the subreddit) and found an interesting pattern:
+The answer to the question was *yes* in the first subreddit. 
 
 2020 dominated the landscape of the top 1000 posts of all time in R/Careerguidance. In fact, we have that a whopping *547* of the posts in the Top 1000 list (so the majority by many standards) were from 2020! Only *383* were from 2019, *67* were from 2018, and *3* were from 2017. 2016 saw no share in the Top 1000. 
 
@@ -53,7 +53,7 @@ I would really like to attribute 2020's overrepresentation in the data to the sp
 
 ### **Another Interesting Result from R/Jobs**:
 
-Doing the same analysis for r/Jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still appeared more in the Top 1000 list than any other year. 
+Doing the same analysis for r/Jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still appeared more in the Top 1000 list than any other year. The answer to the research question was still a *yes*. 
 
 In fact, *393* of the posts in the Top 1000 were from 2020, *308* were from 2019, *157* were from 2018, *41* were from 2017, and *35* were from 2016. 
 
@@ -63,7 +63,8 @@ This figure illustrates this disparity in popularity of the posts between years 
 
 This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in *2008* also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
-### **Was there An Increase In Activity After the Arrival of COVID-19 to the US?**
+
+### Another Question: 
 
 I was first most curious about the overall landscape of the top 1000 posts of all time in these subreddits. Did activity go up on these subreddits after the beginning of the Covid 19 Lockdown? What about  I investigated (spolier: it did, a bit, in CareerGuidance)
 - The data can be found in data/raw folder.
