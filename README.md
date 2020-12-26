@@ -1,7 +1,7 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
   
-### Directory:
+### Directory Tree Diagram
 ```
 ├───data
 │   ├───processed (monthly subreddit data in csv)
