@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # no sensitive info upload
-scraping/jobs_scrape.py
+data_analysis/scraping/jobs_scrape.py
