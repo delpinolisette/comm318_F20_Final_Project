@@ -22,7 +22,7 @@
 
 ## Landscape of Top 1000 Posts:
 
-### An Interesting Pattern from R/CareerGuidance:
+### **An Interesting Pattern from R/CareerGuidance**:
 
 I scraped the top 1000 posts of all time (top 1000 posts with highest number of upvotes, or likes, since the inception of the subreddit) and found an interesting pattern:
 
@@ -38,10 +38,15 @@ To me, this means that 2020 saw more user engagement or a form of user "agreemen
 
 ### Another Interesting Result from R/Jobs:
 
-Doing the same analysis for r/jobs, I found that 
+Doing the same analysis for r/jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still overperformed. 
 
+In fact, *393* of the posts in the Top 1000 were from 2020, *308* were from 2019, *157* were from 2018, *41* were from 2017, and *35* were from 2016. 
+
+This figure illustrates this disparity in popularity of the posts between years on r/Jobs:
 
 ![2020 Outperforms in Subreddit](img/fig_2.png)
+
+This is still impressive, considering that 2020 isn't even over yet. 
 
 
 ### Was there An Increase In Activity After the Arrival of COVID-19 to the US?
