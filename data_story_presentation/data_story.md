@@ -69,14 +69,15 @@ In order to investigate whether there was a spike in activity and engagement aft
 | Statistic in R/Careerguidance   | February Posts | March Posts | April Posts |--Top 1000 Form Posts of All Time--}
 | ----------- | ----------- | ----------- | ------------ |------------|
 | Number of Posts  | 38 | 50   |  44  | 1000 |
-| Average Post Score | 207 | 267.42*| 245.70 | 208.5 | 
+| Average Post Score | 207 | 267.42*| 245.70* | 208.5 | 
 | Average Number of Comments| 80.74 | 99.98* |84.73| 77.01* |
 | Highest Number of Comments on Post | 300 | 457* |310 | 579 |
 | Highest Post Score | 675 | 772 |1250 | 1484 |
 
-Notice also that this table shows that the statistics from r/CareerGuidance from March. Note that the March statistics are being compared to a database containing the top 1000 posts of all time (at least since the forum was founded in 2011), so an average statistic from March 2020 which is close to the average statistic from the general top posts is quite impressive!
 
-It's clear that the average post scores in March were much higher than the average post scores in Top 1000 posts of all time. Furthermore, I would venture to say that there was a lot more user engagement in March, since we see a higher average number of comments in March 2020.
+It's clear that the average post scores in March and April were much higher than the average post scores in Top 1000 posts of all time and in February (267.42 and 245.7 points compared to 207 and 2018.5 points). Then, more users "agreed" with the sentiment of posts in March and April, since scores record the number of likes/upvotes. 
+
+Another important statistic trends upwards in the critical months of March and April. The average number of comments 
 
 | Statistic   | March Posts | --Top 1000 Form Posts of All Time--
 | ----------- | ----------- | ----------- |
