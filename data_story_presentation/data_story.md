@@ -34,7 +34,7 @@ This figure illustrates this disparity in popularity of the posts between years:
 
 This fact is particularly impressive considering that the top 1000 group consists of the top 1000 posts of all time since the inception of the subreddit, which was in *2011*!
 
-To me, this means that 2020 saw more user engagement or a form of user "agreement" - likes and upvotes are, after all a way of agreeing with the sentiment of a post - than any other year. I would really like to attribute this to the arrival of the pandemic to the US and its disastrous effects on employment, but we can't be sure. 
+To me, this means that 2020 saw more user engagement or a form of user "agreement" - likes and upvotes are, after all a way of agreeing with the sentiment of a post - than any other year. I would really like to attribute this to the arrival of the pandemic to the US and its disastrous effects on employment, but we can't be sure without carrying out some more precise statistical tests and we can't truly be sure without experimental data. 
 
 ### Another Interesting Result from R/Jobs:
 
