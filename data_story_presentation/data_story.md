@@ -112,7 +112,7 @@ This post is concered with rejection from a job, and never mentions the Coronavi
 From this pattern, we see engagement rise when the top posts concern the pandemic,(April's top post had about 500 points more than previuos months' top posts) a health and economic threat every user was feeling. 
 
 
-## Landscape of Posts Before March 2020:
+## *Language Landscape* of Posts Before March 2020:
 1. What were the most popular types of posts before th onset of the pandemic? Which were the most popular types of posts after the onset?
     - INSERT TOP 5 SCORES FROM COVID DF FOR RJOBS VS TOP 5 SCORED FROM NON COVID DF FOR R JOBS
     - HIGHLIGHT THE TOP 5 POSTS FROM EACH in bar plot
