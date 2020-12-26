@@ -146,6 +146,10 @@ These top posts serve as our "control". The "rank" column refers to the posts's 
 |Just received a job offer. . . I've never been less excited.| Has the COVID-19 response delayed anyone else's career path?| 5|
 
 ### Language of April 2020 in R/Careerguidance and R/Jobs:
+
+- > "April is the cruelest month" -T.S Eliot
+
+
 | R/Jobs | R/Careerguidance | Rank |
 | --------|-----------------|-------|
 |Why Do Nearly All Entry-Level Jobs Require Unrealistic Amounts of Experience or Certifications?| Are you seriously trying to quit your job during a global pandemic and impending recession? o_O| 1|
@@ -158,37 +162,16 @@ These top posts serve as our "control". The "rank" column refers to the posts's 
 
 | R/Jobs | R/Careerguidance | Rank |
 | --------|-----------------|-------|
-| | | 1|
-| | | 2|
-| | | 3|
-| | | 4|
-| | | 5|
-
-### May 2020 in R/CareerGuidance
-
-| Top 5 Posts in May on R/CareerGuidance       | Score |  Link|
-| ----------- | ----------- | ----|
-| Anyone else graduated, got in a 'career' and realise there was more to life than work?       |   1147
-  |  |
-| Is there no place for employees that are just pretty good at their jobs?   | Text  | |
-| How do I get over my deep-seated dislike of working?| |
-|It's no longer enough to do your job, but you have to be above and beyond to keep it?| |
- | Lost in job hunt and life, what the hell do I do now?| |
+| Does anyone else find LinkedIn toxic?|Anyone else graduated, got in a 'career' and realise there was more to life than work? | 1|
+| How will I ever go back to an office?|Is there no place for employees that are just pretty good at their jobs | 2|
+|I'm going to a job interview in 2 hours -- do I wear a mask?? |How do I get over my deep-seated dislike of working? | 3|
+| I was laid off due to COVID-19 on March 20th. Was told my position was eliminated. Today, I just found out that my previous job was listed online a week ago as open and is accepting applications.|It's no longer enough to do your job, but you have to be above and beyond to keep it | 4|
+|Has "faking it till you make it" gone too far?| Lost in job hunt and life, what the hell do I do now| 5|
 
 - Interpretation:
 - these are posts with a bleak interpretation of work,
 - Let's compare this to the top five posts from r/jobs from May:
-
-### May 2020 in R/Jobs
-
-| Top 5 Posts in May on R/Jobs     | Score |  Link|
-| ----------- | ----------- | ----|
-|Does anyone else find LinkedIn toxic? |   1147 | |
-| How will I ever go back to an office? | Text | |
-| Today, I just found out that my previous job was listed online a week ago as open and is accepting applications.| |
-|Has "faking it till you make it" gone too far? | | 
-
-
+- 
 These tables paint a bleak picture of the state of the worker in America, both in service and non-service based roles.
 
 # Summary + Possible Limitations of My Analysis
