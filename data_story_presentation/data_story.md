@@ -1,9 +1,9 @@
 # Economic Changes and Frustrations in the US during the Coronavirus Pandemic:  A Story in Reddit Posts
 
 # Introduction and Motivation
-1.	The onset of the coronavirus pandemic in the United States led to a disastrous level of unemployment in the United States.
-    - This began a particularly disastrous end for the service-based industry and its employees.
-    - To this day, there is no easy fix to this, since social distancing is crucial to the stop of the spread of the virus.
+The arrival of COVID-19 to the United States, first seen in the horrific reports of cases spreading in nursing homes across the country in early 2020, along with a divided American leadership, helped lead to an economic crisis. 
+In particular, the mismanagement and spread of the virus, along with the necessity to implement long-term social distancing measures, began a financial crisis for the service-based industry and its employees. As the day of the posting of this data story, December 26, 2020, there is no easy fix to this issue, since social distancing measures are necessary to stop the spread of the virus. 
+
 2.	Why investigate this?
     - As someone who has worked in service roles in the past, and remembering how many of my coworkers had families to support, this makes me especially worried.
       - In some states, unemployment websites were broken, and several family friends had no way to even apply for unemployment (Florida). TODO CITE
