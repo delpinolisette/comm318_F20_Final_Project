@@ -64,9 +64,9 @@ I was first most curious about the overall landscape of the top 1000 posts of al
 
 ### February, March, and April 2020 in R/CareerGuidance
 
-In order to investigate whether there was a spike in activity and engagement after the arrival of the Coronavirus to the US, I wanted to focus on key statistics from the months that suffered the shock of COVID-19. February acts as the "control" month. 
+In order to investigate whether there was a spike in activity and engagement after the arrival of the Coronavirus to the US, I wanted to focus on key statistics from the months that suffered the initial shock of COVID-19. To do this, I separated the Top 1000 posts list into months from 2020, and the results are listed in the table below. February acts as the "control" month, since the coronavirus was initially confirmed to be a threat in the US closer to March. It is clear that after the economic effects of the virus first began in March and April, a few key statistics start to trend upwards. 
 
-| Statistic   | February Posts | March Posts | April Posts |--Top 1000 Form Posts of All Time--}
+| Statistic in R/Careerguidance   | February Posts | March Posts | April Posts |--Top 1000 Form Posts of All Time--}
 | ----------- | ----------- | ----------- | ------------ |------------|
 | Number of Posts  | 38 | 50   |  44  | 1000 |
 | Average Post Score | 207 | 267.42*| 245.70 | 208.5 | 
@@ -74,9 +74,7 @@ In order to investigate whether there was a spike in activity and engagement aft
 | Highest Number of Comments on Post | 300 | 457* |310 | 579 |
 | Highest Post Score | 675 | 772 |1250 | 1484 |
 
-
-
-This table shows that the statistics from r/CareerGuidance from March. Note that the March statistics are being compared to a database containing the top 1000 posts of all time (at least since the forum was founded in 2011), so an average statistic from March 2020 which is close to the average statistic from the general top posts is quite impressive!
+Notice also that this table shows that the statistics from r/CareerGuidance from March. Note that the March statistics are being compared to a database containing the top 1000 posts of all time (at least since the forum was founded in 2011), so an average statistic from March 2020 which is close to the average statistic from the general top posts is quite impressive!
 
 It's clear that the average post scores in March were much higher than the average post scores in Top 1000 posts of all time. Furthermore, I would venture to say that there was a lot more user engagement in March, since we see a higher average number of comments in March 2020.
 
