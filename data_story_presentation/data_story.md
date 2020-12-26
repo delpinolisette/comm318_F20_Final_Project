@@ -34,11 +34,13 @@ This figure illustrates this disparity in popularity of the posts between years:
 
 This fact is particularly impressive considering that the top 1000 group consists of the top 1000 posts of all time since the inception of the subreddit, which was in *2011*!
 
-To me, this means that 2020 saw more user engagement or a form of user "agreement" - likes and upvotes are, after all a way of agreeing with the sentiment of a post - than any other year. I would really like to attribute this to the arrival of the pandemic to the US and its disastrous effects on employment, but we can't be sure without carrying out some more precise statistical tests and we can't truly be sure without experimental data. 
+To me, this means that 2020 saw more user engagement or a form of user "agreement" than any other year. "Likes" and "upvotes" are, after all, a way for someone to agree with the sentiment of a post. The Top 1000 list keeps track of record numbers of these "upvotes". 
+
+I would really like to attribute 2020's overrepresentation in the data to the spread of the Coronavirus in the US and its disastrous effects on employment, but we can't be sure without carrying out some more precise statistical tests. Furthermore, we can't truly attribute causation without experimental data. 
 
 ### Another Interesting Result from R/Jobs:
 
-Doing the same analysis for r/jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still overperformed. 
+Doing the same analysis for r/Jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still appeared more in the Top 1000 list than any other year. 
 
 In fact, *393* of the posts in the Top 1000 were from 2020, *308* were from 2019, *157* were from 2018, *41* were from 2017, and *35* were from 2016. 
 
@@ -46,8 +48,7 @@ This figure illustrates this disparity in popularity of the posts between years 
 
 ![2020 Outperforms in Subreddit](img/fig_2.png)
 
-This is still impressive, considering that 2020 isn't even over yet. 
-
+This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in *2008* also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
 ### Was there An Increase In Activity After the Arrival of COVID-19 to the US?
 
