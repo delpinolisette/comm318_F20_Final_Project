@@ -1,5 +1,4 @@
-# Economic Changes and Frustrations in the US during the Coronavirus Pandemic
-## A Story in Reddit Posts
+# Economic Changes and Frustrations in the US during the Coronavirus Pandemic:  A Story in Reddit Posts
 
 # Introduction and Motivation
 1.	The onset of the coronavirus pandemic in the United States led to a disastrous level of unemployment in the United States.
@@ -26,15 +25,24 @@
 ### An Interesting Pattern from R/CareerGuidance:
 
 I scraped the top 1000 posts of all time (top 1000 posts with highest number of upvotes, or likes, since the inception of the subreddit) and found an interesting pattern:
+
 2020 dominated the landscape of the top 1000 posts of all time in R/Careerguidance. In fact, we have that a whopping *547* of the posts in the Top 1000 list (so the majority by many standards) were from 2020! Only *383* were from 2019, *67* were from 2018, and *3* were from 2017. 2016 saw no share in the Top 1000. 
+
+This figure illustrates this disparity in popularity of the posts between years:
 
 ![2020 Outperforms in Subreddit](img/fig_1.png)
 
 This fact is particularly impressive considering that the top 1000 group consists of the top 1000 posts of all time since the inception of the subreddit, which was in *2011*!
 
-### Another Intereting Result from R/Jobs:
+To me, this means that 2020 saw more user engagement or a form of user "agreement" - likes and upvotes are, after all a way of agreeing with the sentiment of a post - than any other year. I would really like to attribute this to the arrival of the pandemic to the US and its disastrous effects on employment, but we can't be sure. 
 
-Doing the same anal
+### Another Interesting Result from R/Jobs:
+
+Doing the same analysis for r/jobs, I found that 
+
+
+![2020 Outperforms in Subreddit](img/fig_2.png)
+
 
 ### Was there An Increase In Activity After the Arrival of COVID-19 to the US?
 
