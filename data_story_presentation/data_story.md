@@ -12,11 +12,15 @@
     - But I am more so concerned about a sense of general despair in the American population. Services (including financial services) make up 68% of the US Economy TODO CITE,
     - While that number encompasses the most affected industries, including food and all kinds of services, it’s indicative of how service based the US is.
 ---
+
+### Methodology:
+
 3.	Where Did I Source the Data From?
     - I sourced it from popular job seeking and advice forums on Reddit, a social media website, for several reasons.
         - It is free to make an account on Reddit – anyone can go on it seeking for advice.
         - Reddit is home to just under 30 million American users, and I am most concerned with the American economic impact in this data story.
     - In particular, I chose two popular subreddits – R/Jobs and R/CareerGuidance. These are field agnostic (not tech job subreddits, which are also common on the website), and workers from the service economy frequently post on it looking for job search advice.
+
 
 # Questions and Analysis
 
@@ -38,7 +42,7 @@ To me, this means that 2020 saw more user engagement or a form of user "agreemen
 
 I would really like to attribute 2020's overrepresentation in the data to the spread of the Coronavirus in the US and its disastrous effects on employment, but we can't be sure without carrying out some more precise statistical tests. Furthermore, we can't truly attribute causation without experimental data. 
 
-### Another Interesting Result from R/Jobs:
+### **Another Interesting Result from R/Jobs**:
 
 Doing the same analysis for r/Jobs, I found that the 2020 presence wasn't as strong in the Top 1000 posts of all time as it was on R/Careerguidance. However, 2020 still appeared more in the Top 1000 list than any other year. 
 
@@ -50,7 +54,7 @@ This figure illustrates this disparity in popularity of the posts between years 
 
 This is still impressive, considering that 2020 isn't even over yet. The fact that 2020 took a larger share of the Top 1000 posts than any other year since the forum's creation in *2008* also compels me believe that this year saw a huge spike in user engagement on job-seeking advice forums. 
 
-### Was there An Increase In Activity After the Arrival of COVID-19 to the US?
+### **Was there An Increase In Activity After the Arrival of COVID-19 to the US?**
 
 I was first most curious about the overall landscape of the top 1000 posts of all time in these subreddits. Did activity go up on these subreddits after the beginning of the Covid 19 Lockdown? What about  I investigated (spolier: it did, a bit, in CareerGuidance)
 - The data can be found in data/raw folder.
@@ -58,9 +62,19 @@ I was first most curious about the overall landscape of the top 1000 posts of al
 - For r/careerguidance, after subsetting the data by month, I found....
 
 
+### February, March, and April 2020 in R/CareerGuidance
+
+In order to investigate whether there was a spike in activity and engagement after the arrival of the Coronavirus to the US, I wanted to focus on key statistics from the months that suffered the shock of COVID-19. February acts as the "control" month. 
+
+| Statistic   | February Posts | March Posts | April Posts |--Top 1000 Form Posts of All Time--}
+| ----------- | ----------- | ----------- | ------------ |------------|
+| Number of Posts  | 38 | 50   |  44  | 1000 |
+| Average Post Score | 207 | 267.42*| 245.70 | 208.5 | 
+| Average Number of Comments| 80.74 | 99.98* |84.73| 77.01* |
+| Highest Number of Comments on Post | 300 | 457* |310 | 579 |
+| Highest Post Score | 675 | 772 |1250 | 1484 |
 
 
-### March 2020 in R/CareerGuidance
 
 This table shows that the statistics from r/CareerGuidance from March. Note that the March statistics are being compared to a database containing the top 1000 posts of all time (at least since the forum was founded in 2011), so an average statistic from March 2020 which is close to the average statistic from the general top posts is quite impressive!
 
